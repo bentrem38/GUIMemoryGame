@@ -1,0 +1,40 @@
+# === Java compilation ===
+*.class
+*.jar
+
+# === Logs ===
+*.log
+
+# === OS-specific ===
+.DS_Store
+Thumbs.db
+
+# === Eclipse project files ===
+.classpath
+.project
+.settings/
+.metadata/
+bin/
+tmp/
+local.properties
+
+# === IntelliJ IDEA project files ===
+.idea/
+*.iml
+out/
+
+# === VS Code project files ===
+.vscode/
+
+# === Backup & temp files ===
+*.swp
+*.tmp
+*.bak
+*~.nib
+
+# === BlueJ (if used) ===
+*.ctxt
+
+# === Leaderboard file (optional) ===
+# Comment this line if you want the leaderboard included in version control
+Resources/LeaderBoard.txt
